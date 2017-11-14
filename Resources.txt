@@ -1,0 +1,9 @@
+1.	UDACITY  lessons from this Machine Learning course
+2.	Udacity Forums- searching for each question to better understand the ask, and understand the problems that others experienced.
+3.	http://scikit-learn.org website – checking all pages for each of the classifiers, and other functions, validations, GridSearchCV, StandardScaler, MinMaxScaler, StratifiedShuffleSplit, Recall, Precision, etc.
+4.	Googled Enron database scandal to better understand the project. 
+5.	https://en.wikipedia.org/wiki/Enron_scandal
+6.	http://www.cnn.com/2013/07/02/us/enron-fast-facts/index.html
+7.	http://www.economist.com/node/940091
+8.	http://content.time.com/time/specials/packages/0,28757,2021097,00.html
+9.	Used help from my mentor and Udacity Live Help to better understand the project
